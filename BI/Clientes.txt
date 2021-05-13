@@ -1,0 +1,21 @@
+cliente|nomcliente|rubro|localidadresid|descuento
+1|La Forestal|Industria|26007040|10
+2|Camargo SA|Comercio|06119010|10
+3|Alimentos Bull|Industria|06134010|5
+4|Cervecera del Plata|Industria|06119010|10
+5|Turbera SRL|Comercio|26007030|8
+6|Laboratorios Sunatris|Industria|06119050|8
+7|Darmelli SA|Comercio|06134060|10
+8|TecnoSud|Industria|06134060|7
+9|Alpatacal|Comercio|26007040|10
+10|Dirección de Comercio de Chubut|Oficial|26007020|5
+11|Petroquímica Alpha|Industria|06119070|6
+12|Salazar S.A.|Comercio|26007040|10
+13|Protonia S.A.|Industria|06134010|5
+14|Casa de Moneda|Oficial|14021290|10
+15|Min. Gobierno|Oficial|50049110|8
+16|Distribuidora Estrella|Comercio|06119090|7
+17|Talleres Leone|Industria|14182280|5
+18|Juzgado N° 16|Oficial|06126030|10
+19|Aguirre y Cía S.A.|Comercio|50049090|15
+20|Talampaya S.A.|Industria|06134060|15

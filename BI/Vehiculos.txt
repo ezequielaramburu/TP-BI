@@ -1,0 +1,7 @@
+vehiculo|nomvehiculo|tipovehiculo|nomtipovehiculo|valorkm
+1|Furgon|10|Furgon|35
+2|Camioneta clase B1|20|Camioneta|45
+3|Camioneta clase B2|20|Camioneta|60
+4|Liviano|30|Camion|70
+5|Mediano|30|Camion|80
+6|Semirremolque|30|Camion|135

@@ -1,0 +1,5 @@
+provincia|nomprovincia
+01|Buenos Aires
+02|Cordoba
+03|Chubut
+04|Mendoza
